@@ -51,14 +51,7 @@ def dump(filepath, chunksize=16, verbose=False, info=False, raw=False):
             if verbose:
                 print(text, end='')
             line += 1
-
-
-"""
-                        Fuck Pakwan 
-                                    - Tilak Hacker     =>    Delete this
-
-"""
-
+            
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
